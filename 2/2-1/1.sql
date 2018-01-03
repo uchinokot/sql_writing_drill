@@ -1,0 +1,5 @@
+SELECT
+  Address
+FROM
+  Customers
+;

@@ -1,0 +1,5 @@
+SELECT
+  Price
+FROM
+  Products
+;

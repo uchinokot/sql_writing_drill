@@ -1,0 +1,5 @@
+SELECT
+  EmployeeName
+FROM
+  Employees
+;

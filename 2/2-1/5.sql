@@ -1,0 +1,5 @@
+SELECT
+  Email
+FROM
+  Employees
+;
